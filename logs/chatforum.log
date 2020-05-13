@@ -1,0 +1,6 @@
+ERROR 2020/04/28 11:21:30 helper.go:33: dial tcp 127.0.0.1:3306: connect: connection refused Cannot find user
+ERROR 2020/04/28 11:21:31 helper.go:33: dial tcp 127.0.0.1:3306: connect: connection refused Cannot find user
+ERROR 2020/04/28 11:23:22 helper.go:33: Error 1045: Access denied for user 'root'@'localhost' (using password: YES) Cannot find user
+ERROR 2020/04/28 11:24:02 helper.go:33: Error 1045: Access denied for user 'root'@'localhost' (using password: YES) Cannot find user
+ERROR 2020/04/28 11:24:03 helper.go:33: Error 1045: Access denied for user 'root'@'localhost' (using password: YES) Cannot find user
+ERROR 2020/04/28 11:24:22 helper.go:33: Error 1045: Access denied for user 'root'@'localhost' (using password: YES) Cannot find user
